@@ -2,6 +2,7 @@ body{
     margin: 0;
     padding: 10px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    min-width: 400px;
 }
 button{
 background-color: #5f9341;
