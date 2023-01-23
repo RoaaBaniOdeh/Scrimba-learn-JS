@@ -1,0 +1,21 @@
+body{
+    background-image:url("BStation.jpg");
+    background-size: cover;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin-top: 550px;
+    margin-left: 690px;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+button {
+    border: none;
+    background-color: rgb(28, 98, 136);
+    width: 200px;
+    height: 50px;
+    color: antiquewhite;
+    border-radius: 2px;
+    margin-left: 15px;
+}

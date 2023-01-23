@@ -1,0 +1,22 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url("green-background.jpg");
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+h1{
+    color: goldenrod;
+}
+button {
+    border: none;
+    background-color: rgb(203, 170, 38);
+    width: 200px;
+    height: 50px;
+    font-weight: bold;
+    color: antiquewhite;
+    border-radius: 2px;
+
+}

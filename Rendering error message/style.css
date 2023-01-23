@@ -1,0 +1,29 @@
+
+body {
+    background: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+div{
+    margin-top: 100px;
+    padding: 10px;
+    background-color: rgb(220, 203, 215);
+}
+
+button {
+    background: white;
+    color: black;
+    font-weight: bold;
+    padding: 10px 16px;
+    border-radius: 10px;
+
+}
+img {
+    width: 300px;
+    display: block;
+    align-content: center;
+}
